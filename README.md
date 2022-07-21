@@ -5,6 +5,12 @@ As announed [on Twitter](https://twitter.com/JanHacker9/status/15499036402358435
 This README outlines the details of collaborating on this Ember application.
 A short introduction of this app could easily go here.
 
+# #FreeAssange
+
+Ithaka: A Fight To Free Julian Assange | Trailer https://youtu.be/Gs0cKFeRko0 via @YouTube 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Gs0cKFeRko0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Prerequisites
 
 You will need the following things properly installed on your computer.
