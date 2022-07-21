@@ -1,5 +1,7 @@
 # leftys-ui
 
+As announed [on Twitter](https://twitter.com/JanHacker9/status/1549903640235843585).
+
 This README outlines the details of collaborating on this Ember application.
 A short introduction of this app could easily go here.
 
